@@ -6,7 +6,7 @@ http.createServer(function (request, response) {
 
            response.end("<h1>It's working 🤗</h1>");
            
-           response.end('Hello World - Application is Working \n');         
+          
           
            
            
